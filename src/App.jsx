@@ -26,8 +26,8 @@ import "./styles.css";
 const siteProps = {
   name: "Natnael Wondwoesn",
   title: "Full Stack Web Developer",
-  email: "Ninatina423@gmail.com",
-  gitHub: "https://github.com/nina17arse",
+  email: "ninatina423@gmail.com",
+  gitHub: "https://www.github.com/nina17arse",
   instagram: "https://www.instagram.com/naty_wonde/",
   linkedIn: "https://www.linkedin.com/in/natnael-wondwoesn-b62563281/",
 };
